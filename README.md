@@ -1,6 +1,7 @@
 # Metallurgic
 
-A brief description of what this project does or its purpose.
+Metallurgic is a rust based media tagging tool designed to make it easy to update tag information
+quickly.
 
 ## Installation
 
