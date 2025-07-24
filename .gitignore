@@ -1,0 +1,11 @@
+/target
+
+# Rust specific files
+/**.env
+/.vscode/
+
+# Cargo build output
+target/
+!target/release/*.html
+!target/release/*.wasm
+!target/wasm32-unknown-unknown/release/*.wasm
