@@ -1,7 +1,7 @@
 # Metallurgic
 
 Metallurgic is a rust based media tagging tool designed to make it easy to update tag information
-quickly. A
+quickly.
 
 ## Installation
 
